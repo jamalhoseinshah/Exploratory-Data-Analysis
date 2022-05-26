@@ -22,11 +22,11 @@ A box plot (or box-and-whisker plot) shows the distribution of quantitative data
 
 The box plot (a.k.a. box and whisker diagram) is a standardized way of displaying the distribution of data based on the five number summary:
 
-Minimum
-First quartile
-Median
-Third quartile
-Maximum.
+ Minimum
+ First quartile
+ Median
+ Third quartile
+ Maximum.
 
 In the simplest box plot the central rectangle spans the first quartile to the third quartile (the interquartile range or IQR).
 
