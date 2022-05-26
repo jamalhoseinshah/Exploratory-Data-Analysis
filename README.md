@@ -1,12 +1,13 @@
 # Exploratory-Data-Analysis
- data analytics process to understand the data in depth and learn the different data characteristics, often with visual means
+
+ Data analytics process to understand the data in depth and learn the different data characteristics, often with visual means
  
  Exploratory Data Analysis refers to the critical process of performing initial investigations on data so as to discover patterns,to spot anomalies,to test hypothesis and to check assumptions with the help of summary statistics and graphical representations.
  
 ![image](https://user-images.githubusercontent.com/95676591/170553962-b34236c5-2cc4-4aca-8598-79eae308f7b5.jpeg)
 
-    Dark shades represents positive correlation while lighter shades represents negative correlation.
-    If you set annot=True, you’ll get values by which features are correlated to each other in grid-cells.
+Dark shades represents positive correlation while lighter shades represents negative correlation.
+If you set annot=True, you’ll get values by which features are correlated to each other in grid-cells.
 
 It’s a good practice to remove correlated variables during feature selection.
 
@@ -21,11 +22,11 @@ A box plot (or box-and-whisker plot) shows the distribution of quantitative data
 
 The box plot (a.k.a. box and whisker diagram) is a standardized way of displaying the distribution of data based on the five number summary:
 
-    Minimum
-    First quartile
-    Median
-    Third quartile
-    Maximum.
+Minimum
+First quartile
+Median
+Third quartile
+Maximum.
 
 In the simplest box plot the central rectangle spans the first quartile to the third quartile (the interquartile range or IQR).
 
