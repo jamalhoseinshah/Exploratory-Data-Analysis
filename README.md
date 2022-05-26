@@ -32,5 +32,6 @@ In the simplest box plot the central rectangle spans the first quartile to the t
 A segment inside the rectangle shows the median and “whiskers” above and below the box show the locations of the minimum and maximum.
 
 
-Regards
+ 
+
 Jamal Hussain shah
